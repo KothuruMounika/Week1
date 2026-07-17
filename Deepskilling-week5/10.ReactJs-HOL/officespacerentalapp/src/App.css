@@ -1,0 +1,12 @@
+.App{
+    margin:40px 120px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.card{
+    margin-bottom:40px;
+}
+
+img{
+    border-radius:5px;
+}

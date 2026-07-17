@@ -1,0 +1,25 @@
+.App{
+
+    margin:40px;
+
+    font-family:Arial;
+
+}
+
+button{
+
+    padding:8px 15px;
+
+    margin-right:10px;
+
+    cursor:pointer;
+
+}
+
+input{
+
+    padding:8px;
+
+    width:200px;
+
+}
